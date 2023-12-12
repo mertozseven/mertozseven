@@ -4,7 +4,6 @@
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="mertozseven@outlook.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/373951/outlook.svg" alt="mertozseven@outlook.com" height="30" width="40" /></a>
 <a href="https://twitter.com/ozsevenmert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ozsevenmert" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mert-adem-ozseven" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mert-adem-ozseven" height="30" width="40" /></a>
 <a href="https://instagram.com/mertozseven" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mertozseven" height="30" width="40" /></a>
