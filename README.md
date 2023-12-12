@@ -1,10 +1,8 @@
 <h3 align="center">Highly motivated fourth-year Electronics and Communications Engineering student at Kocaeli University with a strong passion for iOS application development. Seeking an iOS developer position to leverage my technical skills, creativity, and dedication to craft innovative and user-friendly mobile applications.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mertozseven&label=Profile%20views&color=0e75b6&style=plastic" alt="mertozseven" /> </p>
-
 - 📫 How to reach me **mertozseven@outlook.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ozsevenmert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ozsevenmert" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mert-adem-ozseven" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mert-adem-ozseven" height="30" width="40" /></a>
@@ -17,5 +15,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mertozseven&show_icons=true&theme=dark&locale=en&layout=compact" alt="mertozseven" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mertozseven&show_icons=true&theme=dark&locale=en" alt="mertozseven" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mertozseven&theme=dark" alt="mertozseven" /></p>
