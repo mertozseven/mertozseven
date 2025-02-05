@@ -22,7 +22,7 @@ I'm an iOS developer with a passion for building innovative and user-friendly ap
 🛠 **Tools & Dev Practices:**  
 - Xcode, Git, Fastlane  
 - MVVM, VIPER, MVC  
-- SnapKit, Kingfisher
+- SnapKit, Kingfisher, Alamofire
 - Programmatic UI, Storyboard, XIB
 
 ## 🔹 Connect With Me  
